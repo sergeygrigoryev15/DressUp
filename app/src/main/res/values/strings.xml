@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DressUp</string>
+    <string name="welcome_text">Lets DressUp!</string>
+    <string name="items">Items</string>
+    <string name="outfits">Outfits</string>
+    <string name="calender">Calender</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_add_new_item">Add New Item</string>
+    <string name="item_name">Name</string>
+</resources>
