@@ -42,7 +42,6 @@ public class ItemsGridAdapter extends RecyclerView.Adapter<ItemsGridAdapter.MyVi
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         holder.textView.setText(mDataset.get(position));
-        //holder.imageView
     }
 
     @Override
